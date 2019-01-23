@@ -1,1 +1,2 @@
-private String name
+private String name;
+private integer age;
